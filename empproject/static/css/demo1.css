@@ -1,0 +1,27 @@
+body{
+  background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR9lQqvW1j61ISrc3qTY6CFZJPoAhDnIiQrsfARrcyBwQlG5x_Z);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+h1{
+  color:red;
+  text-align: center;
+
+}
+td,table{
+  margin: auto;
+  border: 2px solid red;
+  color: red;
+  background: yellow;
+  font-size: 25px;
+}
+thead{
+  background: green;
+  color: white;
+}
+.container .jumbotron{
+  margin-top: 200px;
+  background: red;
+  color: white;
+}
